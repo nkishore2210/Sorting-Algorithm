@@ -60,7 +60,7 @@ insertion_sort(list_of_nums)
 ## Output:
 ![Screenshot 2023-06-03 135919](https://github.com/nkishore2210/Sorting-Algorithm/assets/118707090/3a7a1276-4514-4a6a-b165-d458598d3d7d)
 
-![Screenshot 2023-06-03 135919](https://github.com/nkishore2210/Sorting-Algorithm/assets/118707090/a96a70f0-c046-4278-8042-475882876452)
+![Screenshot 2023-06-03 140129](https://github.com/nkishore2210/Sorting-Algorithm/assets/118707090/7210e6d7-a44f-4ff2-b71b-f6b6b8e4d778)
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
